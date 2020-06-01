@@ -1,0 +1,28 @@
+{
+  "name": "eslint-config-warlock-typescript",
+  "version": "2.0.0",
+  "description": "An opinionated eslint config for typescript.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaemonIsland/eslint-config-warlock-typescript.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "shareable",
+    "linting",
+    "lint"
+  ],
+  "author": "Kaemon Lovendahl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KaemonIsland/eslint-config-warlock-typescript/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.0.2",
+    "@typescript-eslint/parser": "^3.0.2",
+    "eslint": "^7.1.0"
+  }
+}
